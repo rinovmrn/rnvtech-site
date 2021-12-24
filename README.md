@@ -1,5 +1,5 @@
 # rnvtech-site
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e1dd29a6-4a97-455f-8ed3-4f79398578bd/deploy-status)](https://app.netlify.com/sites/nervous-hugle-390606/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e1dd29a6-4a97-455f-8ed3-4f79398578bd/deploy-status)](https://app.netlify.com/sites/rnvtech/deploys)
 
 <p>A high performance and mobile first hugo template for personal portfolio and blog, developed by Gurusabarish.</p>
 
