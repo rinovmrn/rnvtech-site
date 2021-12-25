@@ -1,9 +1,10 @@
 # rnvtech-site
 [![Netlify Status](https://api.netlify.com/api/v1/badges/414cab9a-e33a-4b8e-9bf6-53c6ce25ed03/deploy-status)](https://app.netlify.com/sites/rnvtech/deploys)
 
-<p>A high performance and mobile first hugo template for personal portfolio and blog, developed by Gurusabarish.</p>
+<p>I am using and adoption high performance and mobile first hugo template for personal portfolio and blog. This template was designed and developed by Gurusabarish.</p>
 
 ## Credit
+* [Github Profile / Gurusabarish](https://github.com/gurusabarish/hugo-profile/)
 * [Live demo V1](https://hugo-profile-1.netlify.app/)
 * [Live demo V2](https://hugo-profile-2.netlify.app/)
 * [Live demo V3](https://hugo-profile-3.netlify.app/)
